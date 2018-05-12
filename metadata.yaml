@@ -1,0 +1,37 @@
+_repo: Ab-lard-Tome-II_13807
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rémusat, Charles de
+    aliases:
+    - Remusat, Charles-Francois-Marie, comte de
+    - De Rémusat, Charles
+    - Rémusat, Charles-François-Marie, comte de
+    - Remusat, Charles de
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '4652'
+    url: http://www.gutenberg.org/2009/agents/4652
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_de_R%C3%A9musat
+    - http://fr.wikipedia.org/wiki/Charles_de_R%C3%A9musat
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13807'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abelard, Peter, 1079-1142'
+- !lcc 'BX'
+title: Abélard, Tome II
+url: http://www.gutenberg.org/ebooks/13807
