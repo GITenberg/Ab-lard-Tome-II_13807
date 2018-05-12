@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_de_R%C3%A9musat
     - http://fr.wikipedia.org/wiki/Charles_de_R%C3%A9musat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13807#Ab-lard-Tome-II
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Biographie, Mémoires, Journal intime, Correspondance
